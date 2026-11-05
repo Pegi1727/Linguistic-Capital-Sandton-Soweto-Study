@@ -72,33 +72,6 @@ Linguistic-Capital-Sandton-Soweto-Study/
 │   └── graphic_abstract_sandton_soweto.png    # Visual Abstract of the Mixed-Methods Study
 └── data/                                      # Coded transcripts & supplementary matrices
 ---------------------
-Figure Descriptions
-Figure 1 (figure1_ideological_distribution.png): Illustrates the statistical distribution and stark ideological cleavage between Sandton and Soweto educators (
-𝜒
-2
-(
-2
-)
-=
-49.09
-,
-𝑝
-<
-.001
-,
-𝑉
-=
-.91
-χ 
-2
- (2)=49.09,p<.001,V=.91
-).
-Figure 2 (figure2_thematic_dimensions.png): Outlines the qualitative thematic dimensions extracted via MAXQDA (v.24) reflexive thematic analysis.
-Figure 3 (figure3_theoretical_framework.png): Conceptual model mapping the intersection of Pierre Bourdieu’s linguistic capital with Ofelia García’s translanguaging framework.
-Graphical Abstract (graphic_abstract_sandton_soweto.png): High-level visual summary designed for journal submission and quick overview.
---------------------------
-6. How to Cite
-If you use or reference data, code, or figures from this repository, please cite the publication and dataset as follows:
 
 APA Style:
 
