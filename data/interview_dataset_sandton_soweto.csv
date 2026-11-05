@@ -1,0 +1,61 @@
+﻿Participant ID,Raw Response Extract,Code,Category,Final Label
+S-01,Students must master a standard accent for professional success.,ACC-STD,Standard Language Ideology,Standard
+S-02,I correct every grammar mistake to ensure they sound academic.,GRAM-PRE,Standard Language Ideology,Standard
+S-03,"While I value English, I let them use Zulu to explain hard math.",TRAN-SCAF,Inclusionary/Translanguaging,Inclusion
+S-04,Standard English is the only way to be competitive globally.,GLOB-STD,Standard Language Ideology,Standard
+S-05,I just follow the CAPS curriculum and the school's guidelines.,NEUT,Neutral/No Opinion,Neutral
+S-06,Incorrect pronunciation can lead to a lack of credibility in business.,ACC-CRED,Standard Language Ideology,Standard
+S-07,My priority is making sure they sound like native speakers.,NAT-LIKE,Standard Language Ideology,Standard
+S-08,I believe in a balanced approach; identity is important but norms are key.,BAL-NOR,Standard Language Ideology,Standard
+S-09,I allow brief code-switching if it helps a struggling student.,TRAN-SUP,Inclusionary/Translanguaging,Inclusion
+S-10,Grammatical precision is non-negotiable in formal essays.,GRAM-STRI,Standard Language Ideology,Standard
+S-11,Students from diverse backgrounds need the 'correct' English to succeed.,SOC-MOB,Standard Language Ideology,Standard
+S-12,I'm not sure if accents really matter in the long run.,NEUT,Neutral/No Opinion,Neutral
+S-13,Professionalism requires a certain level of linguistic standardization.,PROF-STD,Standard Language Ideology,Standard
+S-14,I find that strict correction leads to better academic results.,CORR-RES,Standard Language Ideology,Standard
+S-15,Students should learn to switch to a standard accent for interviews.,CODE-SW,Standard Language Ideology,Standard
+S-16,The goal is to remove any linguistic barriers to high-level employment.,BAR-REM,Standard Language Ideology,Standard
+S-17,Standard English is the lingua franca of the global elite.,GLOB-ELIT,Standard Language Ideology,Standard
+S-18,I focus more on the content than the accent during first drafts.,CONT-FOC,Inclusionary/Translanguaging,Inclusion
+S-19,Incorrect subject-verb agreement is a sign of poor education.,GRAM-SIGN,Standard Language Ideology,Standard
+S-20,I follow the textbook's standard for all oral assessments.,TEXT-STD,Standard Language Ideology,Standard
+S-21,A polished accent opens doors that a local one might keep closed.,DOOR-OPN,Standard Language Ideology,Standard
+S-22,"I think the current standards are too rigid, but I have to follow them.",RIGID-SYS,Standard Language Ideology,Standard
+S-23,"Clarity is important, but sounding professional is a separate skill.",PROF-SKIL,Standard Language Ideology,Standard
+S-24,I encourage them to read British literature to pick up the rhythm.,LIT-RHYT,Standard Language Ideology,Standard
+S-25,I don't really have a strong opinion on the accent issue.,NEUT,Neutral/No Opinion,Neutral
+S-26,"BSAE is fine for home, but Standard English is for the world.",HOME-STD,Standard Language Ideology,Standard
+S-27,Correcting phonology is a core part of my language teaching.,PHON-COR,Standard Language Ideology,Standard
+S-28,Students who speak 'correctly' are usually more confident.,CONF-STD,Standard Language Ideology,Standard
+S-29,Precision in language reflects precision in thinking.,PREC-THINK,Standard Language Ideology,Standard
+S-30,I emphasize the importance of the standard variety for university.,UNIV-STD,Standard Language Ideology,Standard
+SW-01,"If I don't use Zulu, half the class will fail the science test.",TRAN-SURV,Inclusionary/Translanguaging,Inclusion
+SW-02,The classes are too big; I can't correct every single accent.,RES-CON,Inclusionary/Translanguaging,Inclusion
+SW-03,BSAE is their identity; I use it to bridge the gap to English.,IDEN-BRDG,Inclusionary/Translanguaging,Inclusion
+SW-04,Translanguaging is the only way to make them participate.,TRAN-PART,Inclusionary/Translanguaging,Inclusion
+SW-05,I translate complex terms into Sesotho so they actually learn.,TRAN-DECD,Inclusionary/Translanguaging,Inclusion
+SW-06,Forcing English-only creates a wall of silence in my classroom.,SILEN-WAL,Inclusionary/Translanguaging,Inclusion
+SW-07,Most of my students are terrified of making mistakes in English.,A-FEAR,Inclusionary/Translanguaging,Inclusion
+SW-08,I use a mix of languages to keep them engaged and motivated.,MIX-MOTIV,Inclusionary/Translanguaging,Inclusion
+SW-09,"Standard English is for the exam, but Zulu is for understanding.",EXAM-UND,Inclusionary/Translanguaging,Inclusion
+SW-10,I can't punish them for an accent that is shared by the community.,COMM-ACC,Inclusionary/Translanguaging,Inclusion
+SW-11,Translanguaging is not a choice; it is a necessity for survival.,NECES-SURV,Inclusionary/Translanguaging,Inclusion
+SW-12,We share one book between three students; we have bigger problems.,RES-BOOK,Inclusionary/Translanguaging,Inclusion
+SW-13,I encourage them to express their ideas first in their own tongue.,IDEA-FIRST,Inclusionary/Translanguaging,Inclusion
+SW-14,Students feel more confident when I acknowledge their home language.,CONF-HOME,Inclusionary/Translanguaging,Inclusion
+SW-15,The CAPS curriculum is too fast for those who don't speak English.,CAPS-FAST,Inclusionary/Translanguaging,Inclusion
+SW-16,"My goal is communicative competence, not sounding like a Brit.",COMM-COMP,Inclusionary/Translanguaging,Inclusion
+SW-17,I use code-switching to clarify difficult scientific concepts.,CS-CLARI,Inclusionary/Translanguaging,Inclusion
+SW-18,"If I correct every error, they will stop talking altogether.",CORR-STOP,Inclusionary/Translanguaging,Inclusion
+SW-19,BSAE is a legitimate variety of English in our community.,LEGIT-BSAE,Inclusionary/Translanguaging,Inclusion
+SW-20,Translanguaging helps bridge the gap between home and school.,BRIDGE-GS,Inclusionary/Translanguaging,Inclusion
+SW-21,Classrooms are so overcrowded that individual feedback is a dream.,CROWD-FB,Inclusionary/Translanguaging,Inclusion
+SW-22,I want them to be proud of their roots while learning English.,PRIDE-ROOT,Inclusionary/Translanguaging,Inclusion
+SW-23,The shift to English in Grade 4 is a traumatic shock for many.,GR4-SHOCK,Inclusionary/Translanguaging,Inclusion
+SW-24,I use a lot of Zulu to explain the nuances of English grammar.,ZULU-NUAN,Inclusionary/Translanguaging,Inclusion
+SW-25,Students hide in silence to avoid being mocked for their accent.,STRAT-SIL,Inclusionary/Translanguaging,Inclusion
+SW-26,Effective communication is more important than a 'perfect' accent.,EFFECT-COM,Inclusionary/Translanguaging,Inclusion
+SW-27,Translanguaging reduces the anxiety of my struggling learners.,ANX-REDUC,Inclusionary/Translanguaging,Inclusion
+SW-28,We have to be flexible with language to ensure no child is left behind.,FLEX-LANG,Inclusionary/Translanguaging,Inclusion
+SW-29,The English-only policy is a failure in the township context.,POL-FAIL,Inclusionary/Translanguaging,Inclusion
+SW-30,I use a mix of languages to scaffold their journey to proficiency.,SCAF-JOURN,Inclusionary/Translanguaging,Inclusion
