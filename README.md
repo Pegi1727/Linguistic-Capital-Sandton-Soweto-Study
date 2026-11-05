@@ -71,38 +71,29 @@ The Sandton context is described as a high-resource independent/former Model C s
 | Structural and material context | Resource/textbook scarcity (MAT-LACK); overcrowding (CLASS-CROWD) | Records contextual constraints separately from intentional ideological positions. |
 | Affective ecology | Anxiety and accent-related inhibition (AFF-ANX); safe discursive space (AFF-SAFE) | Examines reported confidence, silence, anxiety, and supportive learning environments. |
 
-### Statistical formulas
+### Statistical Formulas
 
-For a contingency table with observed cell counts \(O_{ij}\), expected counts are \(E_{ij} = (\text{row total}_i \times \text{column total}_j)/N\).
+For a contingency table with observed cell counts $O_{ij}$, expected counts are $E_{ij} = (\text{row total}_i \times \text{column total}_j)/N$.
 
-**Pearson chi-square test of independence**
+**Pearson chi-square test of independence:**
 
-\[
-\chi^2 = \sum_i \sum_j \frac{(O_{ij}-E_{ij})^2}{E_{ij}},
-\qquad df=(r-1)(c-1).
-\]
+$$ \chi^2 = \sum_i \sum_j \frac{(O_{ij}-E_{ij})^2}{E_{ij}}, \qquad df=(r-1)(c-1). $$
 
-**Cramér’s V**
+**Cramér’s V:**
 
-\[
-V = \sqrt{\frac{\chi^2}{N\,\min(r-1,c-1)}}.
-\]
+$$ V = \sqrt{\frac{\chi^2}{N \cdot \min(r-1,c-1)}}. $$
 
-**Normalized Shannon entropy** for category proportions \(p_i\), where there are \(K\) possible categories:
+**Normalized Shannon entropy** for category proportions ($p_i$), where there are $K$ possible categories:
 
-\[
-H_{norm} = \frac{-\sum_{i=1}^{K}p_i\ln(p_i)}{\ln(K)}.
-\]
+$$ H_{norm} = \frac{-\sum_{i=1}^{K}p_i\ln(p_i)}{\ln(K)}. $$
 
-Terms with \(p_i=0\) contribute zero. The index ranges from 0 (complete concentration) to 1 (maximum evenness).
+Terms with $p_i=0$ contribute zero. The index ranges from 0 (complete concentration) to 1 (maximum evenness).
 
 **Simpson’s Index of Diversity** (the convention used for the reported values):
 
-\[
-D = 1-\sum_{i=1}^{K}p_i^2.
-\]
+$$ D = 1-\sum_{i=1}^{K}p_i^2. $$
 
-This version ranges from 0 (no diversity) toward 1 (greater diversity). Some sources use “Simpson’s index” for \(\sum p_i^2\), so the convention should be stated when comparing studies.
+This version ranges from 0 (no diversity) toward 1 (greater diversity). Some sources use “Simpson’s index” for $\sum p_i^2$, so the convention should be stated when comparing studies.
 
 ## Key results
 
